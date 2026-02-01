@@ -31,4 +31,4 @@
    - 字体：使用了 `fontspec` 配置自定义字体，确保排版美观且符合个人需求。
    - 标题格式：通过 `titlesec` 宏包定义了简历标题（如 `\section` 和 `\subsection`）的排版格式。
 
-![result](.\images\result.png)
+![result](./images/result.png)
